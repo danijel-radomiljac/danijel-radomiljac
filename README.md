@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Danijel</h1>
 <h3 align="center">A passionate full stack developer from Croatia</h3>
 
-- 🌱 I’m currently learning in depth **React**
-
 - 📫 How to reach me **radomiljacdanijel@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
